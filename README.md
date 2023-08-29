@@ -18,6 +18,12 @@ Bem-vindo ao **LearnMauiProject**, sua documentação de acompanhamento para o c
 - Padding, margin, backgroundColor, VerticalOptions, HorizontalOptions
 - images, margins, paddings, isVisible
 - Scrol View, identação automatica, spacing font-size, stroke, strokeshape
+- Eventos de clicks, alterando isVisible por código
+- SortedSet(Lista ordenada), E finalização do app gerar numero aleatorio para loteria
+
+### *Seção 04
+- Tags xml, namespaces do xmlns
+- tipos de telas (ContentPages, NavigationPage etcc...)  
 
 
 
