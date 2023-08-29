@@ -16,8 +16,8 @@ Bem-vindo ao **LearnMauiProject**, sua documentação de acompanhamento para o c
 - Explicando alguns componentes dos itens
 - explicando como alterar o icone apenas do android
 - Padding, margin, backgroundColor, VerticalOptions, HorizontalOptions
-- images, margins, paddings
-- 
+- images, margins, paddings, isVisible
+- Scrol View, identação automatica, spacing font-size, stroke, strokeshape
 
 
 
