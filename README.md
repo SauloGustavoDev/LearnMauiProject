@@ -6,19 +6,21 @@ Bem-vindo ao **LearnMauiProject**, sua documentação de acompanhamento para o c
 
 ### Aula 01 - Introdução às Classes e Telas Iniciais
 *Seção 03, Vídeo 03*
-
-Aula a respeito das classes e telas iniciais do projeto e do fluxo entre as telas.
+Nesta aula, exploraremos:
+- As classes e telas iniciais do projeto.
+- O fluxo entre as telas.
 
 ### Aula 02 - Configuração do Projeto
 *Seção 03, Vídeo 04*
-
-Aula a respeito da configuração do projeto, onde é definido as versões do app, nome etc...
+Nesta aula, abordaremos:
+- A configuração do projeto, incluindo versões do app e nome.
+- Definições essenciais que moldam a aplicação.
 
 ### Aula 03 - Pixels, Resoluções e Densidade
 *Seção 03, Vídeo 05*
-
-Aula a respeito de pixels, resoluções e densidade nos dispositivos.
+Nesta aula, aprenderemos sobre:
+- Conceitos de pixels, resoluções e densidade nos dispositivos.
+- Adaptação da aplicação para diferentes tamanhos de tela.
+- Garantia de consistência em várias plataformas.
 
 **Vamos aprender juntos e construir algo incrível com o Maui** 🚀
-
-
