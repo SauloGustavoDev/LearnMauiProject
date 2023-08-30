@@ -1,6 +1,8 @@
 # LearnMauiProject
 
 Bem-vindo ao **LearnMauiProject**, sua documentação de acompanhamento para o curso que estou fazendo em Maui Mobile.
+## Atalhos
+- 
 
 ## Aulas
 
@@ -23,7 +25,11 @@ Bem-vindo ao **LearnMauiProject**, sua documentação de acompanhamento para o c
 
 ### *Seção 04
 - Tags xml, namespaces do xmlns
-- tipos de telas (ContentPages, NavigationPage etcc...)  
+- tipos de telas (ContentPages, NavigationPage etcc...)
+- xmlns , esplica como utilizar e objetivo
+- NavigationPages (navigation back, next, stacks(pilha de telas que ficaram para tras)) e outros metodos do navigation
+- FlyoutPages (FlyoutLayoutBehaviour), menus laterais, Com navigationPages
+- TabbedPage, configuração inicial (colors, hovers, selected) BarTextColor bugado no android
 
 
 
